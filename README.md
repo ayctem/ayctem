@@ -1,2 +1,2 @@
 # Hi! 
-My name is Ayctem, I'm a computer science student in Canada. 
+My name is Ayctem, I'm a first year computer science student in Canada. 
